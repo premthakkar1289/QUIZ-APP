@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_an_account">खाता बनाएं</string>
+    <string name="main_email_address">मेल पता</string>
+    <string name="main_password">पासवर्ड</string>
+    <string name="main_login">लॉग इन करें</string>
+    <string name="main_create_an_account">खाता बनाएं</string>
+    <string name="signup_already_have_an_account">क्या आपके पास पहले से एक खाता मौजूद है</string>
+    <string name="signup_submit">जमा करना</string>
+    <string name="signup_refer_code">कोड देखें</string>
+    <string name="signup_password">पासवर्ड</string>
+    <string name="signup_email_address">मेल पता</string>
+    <string name="signup_full_name">पूरा नाम</string>
+    <string name="signup_create_an_account">खाता बनाएं</string>
+    <string name="signup_male">पुरुष</string>
+    <string name="signup_female">महिला</string>
+</resources>

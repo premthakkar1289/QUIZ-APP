@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="create_an_account">CREATE AN ACCOUNT</string>
+    <string name="main_email_address">Email Address</string>
+    <string name="main_password">Password</string>
+    <string name="main_login">LOGIN</string>
+    <string name="main_create_an_account">CREATE AN ACCOUNT</string>
+    <string name="signup_already_have_an_account">ALREADY HAVE AN ACCOUNT</string>
+    <string name="signup_submit">SUBMIT</string>
+    <string name="signup_refer_code">Refer Code</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_email_address">Email Address</string>
+    <string name="signup_full_name">Full Name</string>
+    <string name="signup_create_an_account">CREATE AN ACCOUNT</string>
+    <string name="signup_male">Male</string>
+    <string name="signup_female">Female</string>
+</resources>
